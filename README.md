@@ -1,7 +1,3 @@
-### `README.md`
-(Este es el archivo principal que se muestra en la página de tu repositorio)
-
-```markdown
 # Sorteos-Web Educativo
 
 Un proyecto para crear una herramienta online, gratuita y fácil de usar, diseñada específicamente para el entorno educativo. Busca facilitar a los docentes la creación de actividades lúdicas como sorteos para asignar grupos, elegir participantes o realizar concursos de manera transparente, justa y motivadora.
